@@ -1,0 +1,1 @@
+Pruebas del proyecto, aun no es la version final estamos haciendo pruebas, con mi proyecto anterior donde no podia hacer el cambio de unos archivos los cuales eran templates para hacer manejo de html al modelo de Django que usa python
